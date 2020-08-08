@@ -18,8 +18,8 @@
     <a href="https://twitter.com/g8ghanshym"><img src="https://github.com/CG1507/CG1507/blob/master/media/twitter.png" width="40" /></a>
 </p>
 
-<p align="center">
+<h3 align="center">
     <samp>
         I'm Machine Learning Engineer. I work on products which comprise neural networks that solve NLP and Computer Vision problems. This includes dataset gathering, neural network training, the science of making it work, and their deployment in production.
     </samp>
-</p>
+</h3>
