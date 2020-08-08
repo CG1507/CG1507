@@ -11,7 +11,9 @@
 	</samp>
 </h1>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/cg1507/"><img src="https://github.com/CG1507/CG1507/blob/master/media/linkedin.png" width="40" /></a>
 <a href="https://github.com/CG1507"><img src="https://github.com/CG1507/CG1507/blob/master/media/github-logo.png" width="40" /></a>
 <a href="mailto:g8ghanshym@gmail.com"><img src="https://github.com/CG1507/CG1507/blob/master/media/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/g8ghanshym"><img src="https://github.com/CG1507/CG1507/blob/master/media/twitter.png" width="40" /></a>
+</p>
