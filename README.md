@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="https://github.com/CG1507/CG1507/blob/master/media/desk.gif" width="70%">
+     <img src="https://github.com/CG1507/CG1507/blob/master/media/desk.gif" width="100%" height="100%">
     <br><br>
 </p>
 
